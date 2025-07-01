@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrencyConverterApp</string>
+    <string name="converter_screen_title">Converter</string>
+    <string name="converter_screen_source_placeholder">Select Source Currency</string>
+    <string name="converter_screen_target_placeholder">Select Target Currency</string>
+    <string name="converter_screen_source_number_placeholder">Enter a Number</string>
+    <string name="currency_list_screen_title">Source Currencies</string>
+    <string name="currency_target_list_screen_title">Target Currencies</string>
+    <string name="error_screen_text">Something went wrong</string>
+    <string name="error_screen_button_text">Try again</string>
+
+</resources>
